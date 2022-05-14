@@ -3,11 +3,17 @@
 
 -🏫Atualmente cursando o 3º período de Tecnologia em Analíse e Desenvolvimento de Sistemas
 
--👨🏽‍💻Trabalhando no momento com prestação de assitência tecnica em informática
+-👨🏽‍💻Trabalhando no momento por conta própria com prestação de assitência tecnica em informática
 
 -📚Estudando sobre front-end
 
--🙂Pronomes: ele/dele
+-🙂Hobbys:
+<ul>
+  <li>👨🏽‍💻Codar</li>
+  <li>📘Aprender mais e mais</li>
+  <li>🎸Tocar violão</li>
+  <li>🚴🏽Andar de bicicleta</li>
+  </ul>
 
 <div align="center">
   <a href="https://github.com/rafamms013">
