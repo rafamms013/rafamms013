@@ -10,7 +10,7 @@
 -🙂Hobbys:
 <ul>
   <li>👨🏽‍💻Codar</li>
-  <li>📘Aprender mais e mais</li>
+  <li>📘Estudar</li>
   <li>🎸Tocar violão</li>
   <li>🚴🏽Andar de bicicleta</li>
   </ul>
