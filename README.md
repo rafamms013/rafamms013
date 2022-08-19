@@ -3,8 +3,6 @@
 
 -🏫Atualmente cursando o 4º período de Tecnologia em Analíse e Desenvolvimento de Sistemas
 
--👨🏽‍💻Trabalhando no momento por conta própria com prestação de assitência tecnica em informática
-
 -📚Estudando sobre front-end
 
 -🙂Hobbys:
