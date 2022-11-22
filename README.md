@@ -1,52 +1,34 @@
 ### Olá! Eu sou o Rafael Montenegro👋🏽
 
+# 💫 About Me:
+🏫Atualmente cursando o 4º período de Tecnologia em Analíse e Desenvolvimento de Sistemas<br>📚Estudando as Tecnologias usadas no Front-end e Back-end<br>👨🏽‍💻Aprendo sobre Cultura Maker<br>🤖Construindo projetos com Arduínos<br><br><br>🙂Hobbys:<br><ul><br>  <li>👨🏽‍💻Codar</li><br>  <li>📘Estudar</li><br>  <li>🎸Tocar violão</li><br>  <li>🚴🏽Andar de bicicleta</li><br>  </ul>
 
--🏫Atualmente cursando o 4º período de Tecnologia em Analíse e Desenvolvimento de Sistemas
 
--📚Estudando sobre front-end
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafael.mmsilva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-montenegro-marques-da-silva/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@rafa_mms03) 
 
--🙂Hobbys:
-<ul>
-  <li>👨🏽‍💻Codar</li>
-  <li>📘Estudar</li>
-  <li>🎸Tocar violão</li>
-  <li>🚴🏽Andar de bicicleta</li>
-  </ul>
-  
-  ##
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafamms013&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafamms013&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamms013&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/rafamms013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamms013&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamms013&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafamms013&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-  ##
-  
- <div style="display: inline_block"><br>
- 
-    
-   <img align="center" alt="Rafael-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafael-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Rafael-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Rafael-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Rafael-JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Rafael-MySql height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafael-PHP height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-   <img align="center" alt="Rafael-Java height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  
-</div>
-  
-  ##
-  
+---
+[![](https://visitcount.itsvg.in/api?id=rafamms013&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <div>
-<a href="https://www.linkedin.com/in/rafael-montenegro-marques-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:rafa.mms0612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
- ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
-    
   
+ ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
   </div>
   
  
