@@ -14,9 +14,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafamms013&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamms013&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div>
+  
+ ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+  </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafamms013&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -24,13 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=rafamms013&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <div>
-  
- ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
  
- 
-  </div>
-  
  
   
   
