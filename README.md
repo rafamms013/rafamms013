@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Montenegro👋🏽
 
 # 💫 About Me:
-🏫Atualmente cursando o 5º período de Tecnologia em Analíse e Desenvolvimento de Sistemas<br>📚Estudando as Tecnologias usadas no Front-end e Back-end<br>👨🏽‍💻Aprendo sobre Cultura Maker<br>🤖Construindo projetos com Arduínos<br><br><br>🙂Hobbys:<br><ul><br>  <li>👨🏽‍💻Codar</li><br>  <li>📘Estudar</li><br>  <li>🎸Tocar violão</li><br>  <li>🚴🏽Andar de bicicleta</li><br>  </ul>
+🏫Atualmente cursando o 5º período de Tecnologia em Analíse e Desenvolvimento de Sistemas<br>📚Estudando as Tecnologias usadas no Front-end e Back-end<br>👨🏽‍💻Aprendo sobre Cultura Maker<br>🤖Construindo projetos com Arduínos<br><br>/*br>🙂Hobbys:<br><ul><br>  <li>👨🏽‍💻Codar</li><br>  <li>📘Estudar</li><br>  <li>🎸Tocar violão</li><br>  <li>🚴🏽Andar de bicicleta</li><br>*/  </ul>
 
 
 ## 🌐 Socials:
