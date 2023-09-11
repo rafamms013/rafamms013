@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Montenegro👋🏽
 
 # 💫 About Me:
-🏫Atualmente cursando o 5º período de Tecnologia em Analíse e Desenvolvimento de Sistemas<br>📚Estudando as Tecnologias usadas no Front-end e Back-end<br>👨🏽‍💻Aprendo sobre Cultura Maker<br>🤖Construindo projetos com Arduínos<br><br> </ul>
+🏫Atualmente cursando o 6º período de Tecnologia em Analíse e Desenvolvimento de Sistemas<br>📚Estudando as Tecnologias usadas no Front-end e Back-end<br>👨🏽‍💻Aprendo sobre Cultura Maker<br>🤖Construindo projetos com Arduínos<br><br> </ul>
 
 
 ## 🌐 Socials:
@@ -17,7 +17,6 @@
 <div>
   
 ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
-
    </div>
 
 ## 🏆 GitHub Trophies
