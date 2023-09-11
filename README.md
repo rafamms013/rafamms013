@@ -18,10 +18,7 @@
   
  ![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
 
-
- 
- 
-  </div>
+   </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafamms013&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
