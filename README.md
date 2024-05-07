@@ -28,6 +28,11 @@
 
 # 📝Organization
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+ ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+ # 💻🖥OS
+ 
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 # 📊 GitHub Stats:
@@ -39,13 +44,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rafamms013&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
  
 ---
-<div>
-  
-![Snake animation](https://github.com/rafamms013/rafamms013/blob/output/github-contribution-grid-snake.svg)
-   </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
  
   
   
